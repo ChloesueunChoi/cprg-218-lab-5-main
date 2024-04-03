@@ -28,7 +28,7 @@
   }
 
   img {
-    border-bottom: 0.25rem solid #fc0;
+    border-bottom: 0.25rem solid rgb(78, 109, 132);
     border-radius: 0.25rem 0.25rem 0 0;
     height: auto;
     width: 100%;
